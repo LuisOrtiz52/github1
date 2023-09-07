@@ -6,7 +6,7 @@ Here I will explain something about the history and current flight simulators.
 The first version was from _Sublogic_, which later was acquired by **Microsoft**.
 After that Microsoft contunued with its developement.
 This is a picture from the first flight simulator.
-
+![Screenshot from Sublogic.](https://upload.wikimedia.org/wikipedia/en/b/b6/Flight_Simulator_1.0_short_animation.thumb.gif)
 ##First features
 In the first version, it has a single surface made with a grid, and another verical plane with some mountains.
 I will show you some code:
